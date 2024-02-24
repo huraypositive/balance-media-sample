@@ -2,5 +2,6 @@
 
 Animated GIF 잘 못 쓰면 YouTub 보다 데이터 사용량 많이 나옵니다.
 
-ref. Media Converter
-https://www.freeconvert.com/gif-to-webp/download
+ref. Media Converter  
+GIF to Webp - https://www.freeconvert.com/gif-to-webp/download  
+Webp to GIF - https://ezgif.com/webp-to-gif
